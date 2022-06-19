@@ -1,0 +1,31 @@
+.about {
+
+   // .about__container
+
+   &__container {
+   }
+
+   // .about__title
+
+   &__title {
+      font-size: 2rem;
+      font-weight: 600;
+      text-align: center;
+      margin: 0px 0px 15vh 0px;
+   }
+
+   // .about__list
+
+   &__list {
+      display: flex;
+      flex-direction: column;
+      gap: 20px 0px;
+   }
+
+   // .about__item
+
+   &__item {
+      font-size: 1.1rem;
+      font-weight: 500; 
+   }
+}

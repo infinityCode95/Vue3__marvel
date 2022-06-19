@@ -1,0 +1,64 @@
+.card {
+   margin: 0px 0px 0px 0px;
+   width: 350px;
+   height: 100%;
+   padding: 0px 20px;
+   display: flex;
+   gap: 10px 0px;
+   flex-direction: column;
+   align-items: center;
+   justify-content: space-around;
+   box-shadow: -1px 10px 30px -10px rgba(50, 50, 50, 0.5);
+
+   // .card__img-wrapper
+
+   &__img-wrapper {
+      
+   }
+
+   // .card__img
+
+   &__img {
+      width: 350px;
+      height: 300px;   
+   }
+
+   // .card__name
+
+   &__name {
+      text-transform: uppercase;
+      font-size: 0.8rem;
+      font-weight: 700;
+   }
+
+   // .card__title
+
+   &__title {
+      font-size: 2rem;
+
+   }
+
+   // .card__body
+
+   &__body {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 15px 0px;      
+   }
+
+   // .card__btn
+
+   &__btn {
+      margin: 0px 0px 10px 0px;
+      display: block;
+      background-color: black;
+      color: white;
+      padding: 5px 20px;
+      font-weight: 600;
+      border-radius: 15px;
+   }   
+}
+
+
+
