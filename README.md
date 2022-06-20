@@ -4,7 +4,7 @@
 </p>
 
 <h3>
-  <a href="https://infinitycode95.github.io/vue3__marvel/#/">🔗 open</a> 
+  <a href="https://infinitycode95.github.io/vue3__marvel/#/">🔗 link</a> 
 </h3>
 
 ---
