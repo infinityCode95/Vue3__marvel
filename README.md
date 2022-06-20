@@ -1,6 +1,8 @@
-### 🔗 link: https://infinitycode95.github.io/vue3__marvel/#/
+<h2 align="center">
+  <a href="https://artjs.site/" target="_blank">🔗 open link</a> 
+</h3>
 
-# my__project
+---
 
 ## Project setup
 ```
